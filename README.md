@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, Flask, FastAPI, django Frameworks.**
 
-- 👨‍💻 My portfolio page [https://ikgagan.github.io/portfolio/]
+- 👨‍💻 My [portfolio page](https://ikgagan.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ikgagan](https://github.com/ikgagan)
+- 👨‍💻 All of my projects are available at [GitHub Page](https://github.com/ikgagan)
 
 - 📫 How to reach me **ik.gagan@gmail.com / +14084390043**
 
