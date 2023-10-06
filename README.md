@@ -5,11 +5,11 @@
 
 - 👨‍💻 My [portfolio page](https://ikgagan.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [GitHub Page](https://github.com/ikgagan)
+- 👨‍💻 All of my projects are available at my GitHub Page [ikgagan](https://github.com/ikgagan)
 
 - 📫 How to reach me **ik.gagan@gmail.com / +14084390043**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gaganik/](https://www.linkedin.com/in/gaganik/)
+- 📄 Know about my experiences at my Linkedin Page [Gagan Indukala Krishna Murthy](https://www.linkedin.com/in/gaganik/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
