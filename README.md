@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gagan and I’m a Software Developer with 3 years of experience and a Master’s in Computer Science. I specialize in full stack development, data analytics, and microservices architecture, delivering scalable platforms and AI-integrated tools using technologies like React Js, Django, Flask, Angular, Next Js. My work spans dynamic data platforms, user-friendly interfaces, and AI-driven analytics, enhancing performance and user experience across diverse industries.</h2>
+<h2 align="left">Hi 👋! My name is Gagan and I’m a Software Developer with 5 years of experience and a Master’s in Computer Science. I specialize in full stack development, data analytics, and microservices architecture, delivering scalable platforms and AI-integrated tools using technologies like React Js, Django, Flask, Angular, Next Js. My work spans dynamic data platforms, user-friendly interfaces, and AI-driven analytics, enhancing performance and user experience across diverse industries.</h2>
 
 ###
 
